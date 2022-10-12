@@ -59,6 +59,7 @@ const Structure = () => {
     return (
 
         <>
+        <h1>Test new push</h1>
             <div className="container1">
                 <div className="boxes">
                     <div className="insideBox">
